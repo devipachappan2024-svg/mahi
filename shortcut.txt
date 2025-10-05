@@ -1,3 +1,4 @@
+
 Term	                              Meaning
 Repository             (Repo)	A project folder on GitHub that stores your code and history.
 Commit	                A saved version of your project (like a checkpoint).
