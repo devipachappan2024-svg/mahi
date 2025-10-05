@@ -1,0 +1,8 @@
+Term	                              Meaning
+Repository             (Repo)	A project folder on GitHub that stores your code and history.
+Commit	                A saved version of your project (like a checkpoint).
+Branch             	A separate line of development, used for testing or adding new features.
+Merge              	Combining changes from one branch into another.
+Pull Request (PR)   	A request to merge code changes into the main project.
+Clone	Copy           a GitHub repository to your local computer.
+Fork	Copy           someone else’s repo into your account to make your own version.
